@@ -1,0 +1,364 @@
+003 The file doesn't exist
+
+079 The file doesn't exist
+
+
+087 :
+M20 K1 :
+Runtime = 0.101627 s 
+OK
+M20 K5 :
+Runtime = 0.076138 s 
+OK
+M27 K2 :
+Runtime = 9.9703 s 
+OK
+	Maximum resident set size (kbytes): 1575020
+M28 K2 :
+Runtime = 20.6993 s 
+OK
+	Maximum resident set size (kbytes): 3147924
+
+138 :
+M20 K1 :
+Runtime = 0.119553 s 
+OK
+M20 K5 :
+Runtime = 0.098407 s 
+OK
+M27 K2 :
+Runtime = 11.9978 s 
+OK
+	Maximum resident set size (kbytes): 1050508
+M28 K2 :
+Runtime = 24.8973 s 
+OK
+	Maximum resident set size (kbytes): 2099132
+147 The file doesn't exist
+
+
+162 :
+M20 K1 :
+Runtime = 0.0728309 s 
+OK
+M20 K5 :
+Runtime = 0.0572281 s 
+OK
+M27 K2 :
+Runtime = 7.08379 s 
+OK
+	Maximum resident set size (kbytes): 1574968
+M28 K2 :
+Runtime = 15.0296 s 
+OK
+	Maximum resident set size (kbytes): 3147672
+
+173 :
+M20 K1 :
+Runtime = 0.0722151 s 
+OK
+M20 K5 :
+Runtime = 0.061944 s 
+OK
+M27 K2 :
+Runtime = 7.33842 s 
+OK
+	Maximum resident set size (kbytes): 1574848
+M28 K2 :
+Runtime = 15.1669 s 
+OK
+	Maximum resident set size (kbytes): 3147712
+
+223 :
+M20 K1 :
+Runtime = 0.088165 s 
+OK
+M20 K5 :
+Runtime = 0.0832269 s 
+OK
+M27 K2 :
+Runtime = 8.35948 s 
+OK
+	Maximum resident set size (kbytes): 1574980
+M28 K2 :
+Runtime = 17.0991 s 
+OK
+	Maximum resident set size (kbytes): 3147908
+
+292 :
+M20 K1 :
+Runtime = 0.065213 s 
+OK
+M20 K5 :
+Runtime = 0.060117 s 
+OK
+M27 K2 :
+Runtime = 7.58703 s 
+OK
+	Maximum resident set size (kbytes): 1574412
+M28 K2 :
+Runtime = 15.6045 s 
+OK
+	Maximum resident set size (kbytes): 3147348
+408 The file doesn't exist
+
+427 The file doesn't exist
+
+
+436 :
+M20 K1 :
+Runtime = 0.0875709 s 
+OK
+M20 K5 :
+Runtime = 0.0582221 s 
+OK
+M27 K2 :
+Runtime = 8.55396 s 
+OK
+	Maximum resident set size (kbytes): 1574488
+M28 K2 :
+Runtime = 17.4789 s 
+OK
+	Maximum resident set size (kbytes): 3147528
+477 The file doesn't exist
+
+
+495 :
+M20 K1 :
+Runtime = 0.088197 s 
+OK
+M20 K5 :
+Runtime = 0.0619891 s 
+OK
+M27 K2 :
+Runtime = 8.93181 s 
+OK
+	Maximum resident set size (kbytes): 1574356
+M28 K2 :
+Runtime = 18.7833 s 
+OK
+	Maximum resident set size (kbytes): 3147368
+
+515 :
+M20 K1 :
+Runtime = 0.137672 s 
+OK
+M20 K5 :
+Runtime = 0.108314 s 
+OK
+M27 K2 :
+Runtime = 12.5824 s 
+OK
+	Maximum resident set size (kbytes): 1575224
+M28 K2 :
+Runtime = 25.837 s 
+OK
+	Maximum resident set size (kbytes): 3150004
+
+574 :
+M20 K1 :
+Runtime = 0.0878601 s 
+OK
+M20 K5 :
+Runtime = 0.063628 s 
+OK
+M27 K2 :
+Runtime = 8.62264 s 
+OK
+	Maximum resident set size (kbytes): 1574640
+M28 K2 :
+Runtime = 17.8585 s 
+OK
+	Maximum resident set size (kbytes): 3147384
+
+581 :
+M20 K1 :
+Runtime = 0.132692 s 
+OK
+M20 K5 :
+Runtime = 0.166681 s 
+OK
+M27 K2 :
+Runtime = 19.8091 s 
+OK
+	Maximum resident set size (kbytes): 2623732
+M28 K2 :
+Runtime = 44.7867 s 
+OK
+	Maximum resident set size (kbytes): 5249736
+
+585 :
+M20 K1 :
+Runtime = 0.08658 s 
+OK
+M20 K5 :
+Runtime = 0.0646701 s 
+OK
+M27 K2 :
+Runtime = 8.60131 s 
+OK
+	Maximum resident set size (kbytes): 1574520
+M28 K2 :
+Runtime = 17.8378 s 
+OK
+	Maximum resident set size (kbytes): 3149368
+
+608 :
+M20 K1 :
+Runtime = 0.0972281 s 
+OK
+M20 K5 :
+Runtime = 0.0719349 s 
+OK
+M27 K2 :
+Runtime = 10.2966 s 
+OK
+	Maximum resident set size (kbytes): 1574904
+M28 K2 :
+Runtime = 20.6615 s 
+OK
+	Maximum resident set size (kbytes): 3149192
+
+621 :
+M20 K1 :
+Runtime = 0.133292 s 
+OK
+M20 K5 :
+Runtime = 0.0842059 s 
+OK
+M27 K2 :
+Runtime = 12.5069 s 
+OK
+	Maximum resident set size (kbytes): 1575064
+M28 K2 :
+Runtime = 25.7698 s 
+OK
+	Maximum resident set size (kbytes): 3147916
+
+658 :
+M20 K1 :
+M20 K5 :
+M27 K2 :
+	Maximum resident set size (kbytes): 1256
+M28 K2 :
+	Maximum resident set size (kbytes): 1164
+
+665 :
+M20 K1 :
+Runtime = 0.109402 s 
+OK
+M20 K5 :
+Runtime = 0.0867672 s 
+OK
+M27 K2 :
+Runtime = 9.89007 s 
+OK
+	Maximum resident set size (kbytes): 2099280
+M28 K2 :
+Runtime = 20.3048 s 
+OK
+	Maximum resident set size (kbytes): 4196456
+
+698 :
+M20 K1 :
+Runtime = 0.103153 s 
+OK
+M20 K5 :
+Runtime = 0.10415 s 
+OK
+M27 K2 :
+Runtime = 13.4368 s 
+OK
+	Maximum resident set size (kbytes): 3147372
+M28 K2 :
+Runtime = 55.3919 s 
+OK
+	Maximum resident set size (kbytes): 5511212
+744 The file doesn't exist
+
+773 The file doesn't exist
+
+
+788 :
+M20 K1 :
+Runtime = 0.072485 s 
+OK
+M20 K5 :
+Runtime = 0.0609541 s 
+OK
+M27 K2 :
+Runtime = 8.71884 s 
+OK
+	Maximum resident set size (kbytes): 2099088
+M28 K2 :
+Runtime = 18.235 s 
+OK
+	Maximum resident set size (kbytes): 4196284
+
+799 :
+M20 K1 :
+Runtime = 0.090368 s 
+OK
+M20 K5 :
+Runtime = 0.0839338 s 
+OK
+M27 K2 :
+Runtime = 9.04202 s 
+OK
+	Maximum resident set size (kbytes): 1575052
+M28 K2 :
+Runtime = 18.7983 s 
+OK
+	Maximum resident set size (kbytes): 3148024
+
+852 :
+M20 K1 :
+Runtime = 0.087635 s 
+OK
+M20 K5 :
+Runtime = 0.0792091 s 
+OK
+M27 K2 :
+Runtime = 8.58727 s 
+OK
+	Maximum resident set size (kbytes): 1574536
+M28 K2 :
+Runtime = 17.8368 s 
+OK
+	Maximum resident set size (kbytes): 3147352
+
+863 :
+M20 K1 :
+Runtime = 0.092746 s 
+OK
+M20 K5 :
+Runtime = 0.074894 s 
+OK
+M27 K2 :
+Runtime = 9.48769 s 
+OK
+	Maximum resident set size (kbytes): 2099104
+M28 K2 :
+Runtime = 19.7164 s 
+OK
+	Maximum resident set size (kbytes): 4196316
+
+896 :
+M20 K1 :
+Runtime = 0.0712001 s 
+OK
+M20 K5 :
+Runtime = 0.0442021 s 
+OK
+M27 K2 :
+Runtime = 7.18267 s 
+OK
+	Maximum resident set size (kbytes): 1574420
+M28 K2 :
+Runtime = 14.8603 s 
+OK
+	Maximum resident set size (kbytes): 3147364
+999 The file doesn't exist
+
+ The file doesn't exist
+
